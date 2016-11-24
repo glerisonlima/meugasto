@@ -1,0 +1,20 @@
+{
+  "name": "meugasto",
+  "description": "sistema de controle de gastos",
+  "main": "index.js",
+  "authors": [
+    "Glerison Lima"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
