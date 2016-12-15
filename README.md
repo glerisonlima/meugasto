@@ -1,2 +1,2 @@
 # meugasto
-sistema controle de gatos
+sistema controle de gastos
